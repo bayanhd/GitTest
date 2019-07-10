@@ -1,3 +1,3 @@
 # GitTest
 
-my git
+This is my first gitHub for testing
